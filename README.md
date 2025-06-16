@@ -6,7 +6,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # AIR - Automated Incident Response
-This Python script automates cybersecurity incident detection and response using the NIST framework.
+This a small Python script which automates cybersecurity incident detection and response using the NIST framework.
 
 ## Features:
 - Monitors logs for security threats
